@@ -275,6 +275,11 @@
     "glob" "^7.1.0"
     "mkdirp" "^1.0.4"
 
+"@nativescript/ios@8.3.2":
+  "integrity" "sha512-pQjNG7oRH+ozht+9MkuxjsTCTYVXUdGEiVY61CCL4YwmxMKutGyx+a8ytC5EV+B+4QAdUJj+dwHls5rtxESbeQ=="
+  "resolved" "https://registry.npmjs.org/@nativescript/ios/-/ios-8.3.2.tgz"
+  "version" "8.3.2"
+
 "@nativescript/theme@~3.0.2":
   "integrity" "sha512-ypwYyasTFRWbaxNwdqXgql9MUZsq82Stgd+zj4LEjp5cBQPPIWFeJ8uxWdtbpjHjjuTWYW/FCMmnuayOF7uK/g=="
   "resolved" "https://registry.npmjs.org/@nativescript/theme/-/theme-3.0.2.tgz"

@@ -19,7 +19,7 @@
 export default {
   computed: {
     message() {
-      return "Blank {N}-Vue app! Hot reloaded!!!!";
+      return "Blank {N}-Vue app! Hot reloaded!!!!!";
     },
   },
 };
